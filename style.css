@@ -48,4 +48,24 @@ button {
     border-radius: 6px;
 }
 
+#tttttt {
+    padding: 50px 0 0 0;
+}
+
+
+.tttttt-text h1 {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    color: #035B81;
+
+}
+
+.tttttt-text h2 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: center;
+    color: #02BC6B;
+}
 
